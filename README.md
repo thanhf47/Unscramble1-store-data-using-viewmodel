@@ -11,7 +11,7 @@ Used in the [Android Basics with Kotlin](https://developer.android.com/courses/a
 
 Pre-requisites
 --------------
-
+    
 You need to know:
 - Knowledge about Fragments.
 - How to design a layout in ConstraintLayout.
